@@ -1,4 +1,4 @@
-module github.com/grpc_plugins
+module github.com/BravoLu/PsyExp-plugins
 
 go 1.21.5
 

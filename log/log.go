@@ -3,7 +3,7 @@ package log
 import (
 	"os"
 
-	"github.com/grpc_plugins/config"
+	"github.com/BravoLu/PsyExp-plugins/config"
 	"github.com/natefinch/lumberjack"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
